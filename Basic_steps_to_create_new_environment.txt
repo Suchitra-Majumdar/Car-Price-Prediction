@@ -1,0 +1,18 @@
+
+Basic Steps to create new environment
+
+1. Created a new environment for crprice prediction
+	conda create -n carpriceprediction python=3.7.3
+	
+2. Activate
+	conda activate carprice prediction
+	
+3. change the directory where u need to sav your notebook
+	cd Documents/Greyaom/Project
+
+4. Install jupyter notebook
+	python -m pip install jupyter
+	
+5. Open Jupyter notebook
+	jupyter notebook
+
