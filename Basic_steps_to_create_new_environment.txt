@@ -16,3 +16,6 @@ Basic Steps to create new environment
 5. Open Jupyter notebook
 	jupyter notebook
 
+6. To create environment for requirement.txt
+	pip freeze > requirements.txt
+
